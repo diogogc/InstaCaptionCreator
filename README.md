@@ -9,5 +9,6 @@ Se gostar crt+c crt+v! Se não, gere até conseguir o que você quer!
 
 Você pode-se tambem inspira-se pela legenda gerada usa-la como ponto de partida!
 
+
 # TODO 
 - Inserir a imagem / vídeo do post para melhorar a sugestão de texto, assim como gerar o alt (para leitores de tela)
