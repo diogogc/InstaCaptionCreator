@@ -2,7 +2,11 @@
 
 Projeto desenvolvido como exercício do curso de Imersão da Alura na AI Google Gemini
 
-Com intúito de auxiliar equipes de mídias sociais, essa aplicação tem por objetivo fazer o Google Gemini aprender com postagens do seu perfil no Instagram e gerar insights e ideias para Legendas para novos post.
+Equipes de midias sociais, criadores de conteúdo, influenciadores digitais e qualquer pessoa que posta com frequência no Instagram, por vezes ficam sem criatividade para gerar a legenda de seu conteúdo.
+
+Essa aplicação vem para destravar sua criativodade! Utiliazando o Google Gemini para analizar suas postagens anteriores, gere legendas para seu próximo post com seu estilo! Se gostar crt+c crt+v! Se não, gere mais uma vez até conseguir o você quer!
+
+Você pode-se tambem inspira-se pela legenda gerada usa-la como ponto de partida!
 
 # TODO 
 - Inserir a imagem / vídeo do post para melhorar a sugestão de texto, assim como gerar o alt (para leitores de tela)
