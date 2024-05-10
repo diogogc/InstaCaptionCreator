@@ -7,7 +7,7 @@ Equipes de midias sociais, criadores de conteúdo, influenciadores digitais e qu
 Essa aplicação vem para destravar sua criativodade! Utiliazando o Google Gemini para analizar suas postagens anteriores, gerar legendas para seu próximo post com seu estilo! 
 Se gostar crt+c crt+v! Se não, gere até conseguir o que você quer!
 
-Você pode-se tambem inspira-se pela legenda gerada usa-la como ponto de partida!
+Você pode tambem inspira-se pela legenda gerada e usa-la como ponto de partida!
 
 
 # TODO 
